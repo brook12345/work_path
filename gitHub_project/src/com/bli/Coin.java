@@ -35,7 +35,7 @@ package com.bli;
 		    int V = 21;
 		    System.out.println("Minimum coins required is "+ minCoins(coins, m, V) );
 		    System.out.println("Brook Test: Coin class executed successfully.");
-		    System.out.println("gitHub Brook Test: Coin class executed successfully.");
+		    System.out.println("gitHub Brook Test: Coin class executed successfully. 1");
 		    
 		 }
 		 
