@@ -23,7 +23,7 @@ package com.bli;
 		          // Check for INT_MAX to avoid overflow and see if
 		          // result can minimized
 		          if (sub_res != Integer.MAX_VALUE && sub_res + 1 < res)
-		             res = sub_res + 1;
+		             a res = sub_res + 1;
 		      }
 		    }
 		    return res;
