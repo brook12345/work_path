@@ -23,7 +23,7 @@ package com.bli;
 		          // Check for INT_MAX to avoid overflow and see if
 		          // result can minimized
 		          if (sub_res != Integer.MAX_VALUE && sub_res + 1 < res)
-		             a res = sub_res + 1;
+		             res = sub_res + 1;
 		      }
 		    }
 		    return res;
@@ -35,7 +35,7 @@ package com.bli;
 		    int V = 21;
 		    System.out.println("Minimum coins required is "+ minCoins(coins, m, V) );
 		    System.out.println("Brook Test: Coin class executed successfully.");
-		    System.out.println("gitHub Brook Test: Coin class executed successfully. 7 Demo_build branch");
+		    System.out.println("gitHub Brook Test: Coin class executed successfully. 8 Demo_build branch");
 		    
 		 }
 		 
